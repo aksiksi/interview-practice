@@ -66,7 +66,6 @@ if __name__ == '__main__':
 
     l2.insert(10)
     l2.delete(1)
-    l2.delete(99) # ValueError
 
     l3.insert(10000)
 
